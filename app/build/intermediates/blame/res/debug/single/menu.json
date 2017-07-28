@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gls_more.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\menu\\gls_more.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\menu\\help.xml"
+    }
+]

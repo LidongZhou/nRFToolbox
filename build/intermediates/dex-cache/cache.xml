@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lidong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\workspace\nRFToolbox\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_d3d1f9e09d2a75b5b6bef1cdb5caade781324a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\nRFToolbox\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d50f166a6984986f5c5cf9a13f1e9610f2d86976">
+        <dex dex="E:\workspace\nRFToolbox\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7454425fb8d37bcc3ca1b949f1b61601f682302e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\nRFToolbox\app\libs\logger-v1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0153beb7fa337d826ae475fc9e8ab7f096854d75">
+        <dex dex="E:\workspace\nRFToolbox\app\build\intermediates\transforms\dex\debug\folders\1000\2\logger-v1_d81b4b7e5f8877d26bd3bb795830f4c13aceb79b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\nRFToolbox\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="525036b6a2f30ccafa498e1f7c1d853f314fc30a">
+        <dex dex="E:\workspace\nRFToolbox\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bed1c6d209670ce622221503bb08daa863eb1df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\nRFToolbox\app\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\workspace\nRFToolbox\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_14295a79fc297f4ace06c73ef4604aac6fba8ac0\classes.dex" />
+    </item>
+
+</items>

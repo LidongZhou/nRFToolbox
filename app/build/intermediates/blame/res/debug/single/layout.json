@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_features.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_features.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hts.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_hts.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_plugin.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\drawer_plugin.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_bpm.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_bpm.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_proximity.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_proximity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_hrs.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_hrs.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_title.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\device_list_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_file_browser_item.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\app_file_browser_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_file_browser.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\app_file_browser.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_device_selection.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\fragment_device_selection.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_empty.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\device_list_empty.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feature_icon.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\feature_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls_subitem.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_gls_subitem.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_dfu.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_dfu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls_item.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_gls_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature_gls.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\activity_feature_gls.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_row.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout\\device_list_row.xml"
+    }
+]

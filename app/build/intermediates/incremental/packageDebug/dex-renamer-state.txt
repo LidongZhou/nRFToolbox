@@ -1,0 +1,7 @@
+#Fri Jul 28 10:28:13 CST 2017
+base.0=E\:\\workspace\\nRFToolbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bed1c6d209670ce622221503bb08daa863eb1df8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\workspace\\nRFToolbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7454425fb8d37bcc3ca1b949f1b61601f682302e\\classes.dex
+base.1=E\:\\workspace\\nRFToolbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7454425fb8d37bcc3ca1b949f1b61601f682302e
+file.0=E\:\\workspace\\nRFToolbox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bed1c6d209670ce622221503bb08daa863eb1df8\\classes.dex

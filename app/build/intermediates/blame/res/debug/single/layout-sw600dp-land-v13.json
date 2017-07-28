@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_feature_dfu.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout-sw600dp-land\\activity_feature_dfu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_feature_bpm.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout-sw600dp-land\\activity_feature_bpm.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\activity_feature_hrs.xml",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\layout-sw600dp-land\\activity_feature_hrs.xml"
+    }
+]

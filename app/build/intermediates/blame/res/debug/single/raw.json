@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs.hex",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\raw\\ble_app_hrs.hex"
+    },
+    {
+        "merged": "E:\\workspace\\nRFToolbox\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs.hex",
+        "source": "E:\\workspace\\nRFToolbox\\app\\src\\main\\res\\raw\\ble_app_rscs.hex"
+    }
+]
